@@ -1,4 +1,4 @@
-# Gridhook
+# Gridhook(This is a beta version)
 
 Gridhook is a Rails engine providing an endpoint for handling incoming
 SendGrid webhook events.
